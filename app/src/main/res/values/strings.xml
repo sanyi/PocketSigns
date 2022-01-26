@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Pocket Signs</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="grid_element_img_content"> </string>
+    <string name="choose_a_sign">Choose a sign</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="categories">
+        <item>Traffic Signs#road/pedestrian_crossing_ahead</item>
+        <item>Hazard#hazard/biohazard</item>
+        <item>Prohibition Signs#ban/no_access_for_unauthorized_persons</item>
+        <item>Funny#fun/warning_aliens</item>
+    </string-array>
+
+    <string-array name="fun_signs">
+        <item>Warning aliens#fun/warning_aliens</item>
+        <item>Warning falling penguins#fun/warning_falling_penguins</item>
+        <item>We are working here!#fun/we_are_working_here</item>
+        <item>Warning elephants#fun/warning_elephants</item>
+        <item>Warning married couple#fun/warning_married_couple</item>
+        <item>Warning witches#fun/warning_witches</item>
+        <item>Warning old cheese#fun/warning_old_cheese</item>
+        <item>Warning infants#fun/warning_infants</item>
+        <item>Cupid ahead#fun/cupid_ahead</item>
+        <item>Snail crossing ahead#fun/snail_crossing_ahead</item>
+        <item>Santa around#fun/santa_around</item>
+        <item>Old warning#fun/old_warning</item>
+        <item>Stroller parking#fun/stroller_parking</item>
+        <item>Keep calm and carry on#fun/keep_calm_and_carry_on</item>
+        <item>No trolls here#fun/no_trolls_here</item>
+        <item>No UFO traffic allowed#fun/no_ufo_traffic_allowed</item>
+        <item>Keep your rockets at bay#fun/keep_your_rockets_at_bay</item>
+        <item>Phone support#fun/phone_support</item>
+        <item>Support center#fun/support_center</item>
+        <item>Recycle center#fun/recycle_center</item>
+        <item>Peace zone#fun/peace_zone</item>
+        <item>Nursery#fun/nursery</item>
+    </string-array>
+
+    <string-array name="hazard_signs">
+        <item>General warning#hazard/general_warning</item>
+        <item>Toxic#hazard/toxic</item>
+        <item>High voltage#hazard/high_voltage</item>
+        <item>Flammable materials#hazard/flammable_materials</item>
+        <item>Oxidising#hazard/oxidising</item>
+        <item>Low temperature#hazard/low_temperature</item>
+        <item>Biohazard#hazard/biohazard</item>
+        <item>Radiation warning#hazard/radiation_warning</item>
+        <item>Tsunami warning#hazard/tsunami_warning</item>
+        <item>Explosion risk#hazard/explosion_risk</item>
+        <item>Danger overhead crane#hazard/danger_overhead_crane</item>
+        <item>Hot surface#hazard/hot_surface</item>
+        <item>Danger of entrapment#hazard/danger_of_entrapment</item>
+        <item>Slippery floor#hazard/slippery_floor</item>
+        <item>Falling hazard#hazard/falling_hazard</item>
+        <item>Tripping danger#hazard/tripping_danger</item>
+        <item>Dangerous batteries#hazard/dangerous_batteries</item>
+        <item>Dangerous to the environment#hazard/dangerous_to_the_environment</item>
+        <item>Danger of harming your hands#hazard/danger_of_harming_your_hands</item>
+        <item>Corrosive#hazard/corrosive</item>
+        <item>Danger of falling objects#hazard/danger_of_falling_objects</item>
+        <item>Gas bottles#hazard/gas_bottles</item>
+        <item>Explosive air#hazard/explosive_air</item>
+        <item>Health danger and irritant#hazard/health_danger_and_irritant</item>
+        <item>Laser radiation#hazard/laser_radiation</item>
+        <item>Non ionizing radiation#hazard/non_ionizing_radiation</item>
+        <item>Optical radiation#hazard/optical_radiation</item>
+        <item>Strong magnetic field#hazard/strong_magnetic_field</item>
+        <item>Fork lift trucks#hazard/fork_lift_trucks</item>
+        <item>Can tip over when moving#hazard/can_tip_over_when_moving</item>
+        <item>Driven by conveyor belt inside the track#hazard/driven_by_conveyor_belt_inside_the_track</item>
+        <item>Remotely starting#hazard/remotely_starting</item>
+        <item>Entanglement hazard#hazard/entanglement_hazard</item>
+        <item>Electricity#hazard/electricity</item>
+        <item>High temperatures#hazard/high_temperatures</item>
+        <item>Cutting hazard#hazard/cutting_hazard</item>
+        <item>Caution stairs#hazard/caution_stairs</item>
+        <item>Danger of death#hazard/danger_of_death</item>
+        <item>Falling objects#hazard/falling_objects</item>
+        <item>Glass hazard#hazard/glass_hazard</item>
+        <item>Hand injuries hazard#hazard/hand_hazard</item>
+        <item>Rotating parts hazard#hazard/rotating_parts_hazard</item>
+        <item>Suffocation hazard#hazard/suffocation_hazard</item>
+        <item>Warning guard dogs#hazard/warning_guard_dogs</item>
+        <item>Warning#hazard/warning</item>
+
+    </string-array>
+
+    <string-array name="prohibition_signs">
+        <item>No smoking#ban/no_smoking</item>
+        <item>Smoking and open flames forbidden#ban/smoking_and_open_flames_forbidden</item>
+        <item>Photography prohibited#ban/photography_prohibited</item>
+        <item>No access for unauthorized persons#ban/no_access_for_unauthorized_persons</item>
+        <item>No mobile phones#ban/no_mobile_phones</item>
+        <item>No pedestrians#ban/no_pedestrians</item>
+        <item>Animals forbidden#ban/animals_forbidden</item>
+        <item>Do not extinguish with water#ban/do_not_extinguish_with_water</item>
+        <item>Do not fold and push together#ban/do_not_fold_and_push_together</item>
+        <item>Do not spray water#ban/do_not_spray_water</item>
+        <item>Do not step here#ban/do_not_step_here</item>
+        <item>Do not touch#ban/do_not_touch</item>
+        <item>Do not touch live parts#ban/do_not_touch_live_parts</item>
+        <item>Do not use in residential area#ban/do_not_use_in_residential_area</item>
+        <item>Do not wear loose clothing#ban/do_not_wear_loose_clothing</item>
+        <item>No access for industrial vehicles#ban/no_access_for_industrial_vehicles</item>
+        <item>No data storage devices#ban/no_data_storage_devices</item>
+        <item>No eating or drinking#ban/no_eating_or_drinking</item>
+        <item>No metal parts or watches#ban/no_metal_parts_or_watches</item>
+        <item>No persons with implants#ban/no_persons_with_implants</item>
+        <item>No persons with pacemakers#ban/no_persons_with_pacemakers</item>
+        <item>No stoppage or storage#ban/no_stoppage_or_storage</item>
+        <item>No switching#ban/no_switching</item>
+        <item>No transport of persons#ban/no_transport_of_persons</item>
+        <item>No needles or safety pins#ban/no_needles_or_safety_pins</item>
+    </string-array>
+
+
+    <string-array name="road_signs">
+        <item>Caution#road/caution</item>
+        <item>Pedestrian crossing ahead#road/pedestrian_crossing_ahead</item>
+        <item>Elderly or disabled people crossing the road#road/elderly_or_disabled_people_crossing_the_road</item>
+        <item>Skiers crossing#road/skiers_crossing</item>
+        <item>Wild animal crossing#road/wild_animal_crossing</item>
+        <item>Wild fowl warning#road/wild_fowl_warning</item>
+        <item>Slippery pavement#road/slippery_pavement</item>
+        <item>Traffic queues likely#road/traffic_queues_likely</item>
+        <item>Draw bridge ahead#road/draw_bridge_ahead</item>
+        <item>Bumpy road#road/bumpy_road</item>
+        <item>Loose chippings warning#road/loose_chippings_warning</item>
+        <item>Falling rocks#road/falling_rocks</item>
+        <item>Rail crossing with gates#road/rail_crossing_with_gates</item>
+        <item>Rail crossing without safety arm#road/rail_crossing_without_safety_arm</item>
+        <item>Tram crossing#road/tram_crossing</item>
+        <item>Tunnel ahead#road/tunnel_ahead</item>
+        <item>Steep descent#road/steep_descent</item>
+        <item>Side winds warning#road/side_winds_warning</item>
+        <item>Road works#road/road_works</item>
+        <item>Traffic signal ahead#road/traffic_signal_ahead</item>
+        <item>Curve to right#road/curve_to_right</item>
+        <item>Curve to left#road/curve_to_left</item>
+        <item>Double curve, first curve starting to the right#road/double_curve_first_curve_starting_to_the_right</item>
+        <item>Double curve, first curve starting to the left#road/double_curve_first_curve_starting_to_the_left</item>
+        <item>Junction with a minor side-road right#road/junction_with_a_minor_side_road_right</item>
+        <item>Junction with a minor side-road left#road/junction_with_a_minor_side_road_left</item>
+        <item>Merge from right#road/merge_from_right</item>
+        <item>Merge from left#road/merge_from_left</item>
+        <item>Junction with a minor cross road#road/junction_with_a_minor_cross_road</item>
+        <item>End of dual carriageway#road/end_of_dual_carriageway</item>
+        <item>Crossroads with priority from the right#road/crossroads_with_priority_from_the_right</item>
+        <item>Two-way traffic#road/two_way_traffic</item>
+        <item>Road narrows from the right#road/road_narrows_from_the_right</item>
+        <item>Road narrows from the left#road/road_narrows_from_the_left</item>
+        <item>Road narrows on both sides#road/road_narrows_on_both_sides</item>
+        <item>Roundabout ahead#road/roundabout_ahead</item>
+        <item>No entry in both directions#road/no_entry_in_both_directions</item>
+        <item>No motor vehicles except solo motor cycles#road/no_motor_vehicles_except_solo_motor_cycles</item>
+        <item>No vehicles used for goods transport#road/no_vehicles_used_for_goods_transport</item>
+        <item>No entry for bicycles#road/no_entry_for_bicycles</item>
+        <item>No entry for mopeds#road/no_entry_for_mopeds</item>
+        <item>No motorcycles#road/no_motorcycles</item>
+        <item>No motor vehicles#road/no_motor_vehicles</item>
+        <item>No entry for horses#road/no_entry_for_horses</item>
+        <item>No entry for pedestrians#road/no_entry_for_pedestrians</item>
+        <item>No vehicles with dangerous goods#road/no_vehicles_with_dangerous_goods</item>
+        <item>No entry for polluting goods#road/no_entry_for_polluting_goods</item>
+        <item>Keep distance#road/keep_distance</item>
+        <item>No vehicles which are longer than indicated#road/no_vehicles_which_are_longer_than_indicated</item>
+        <item>No vehicles which are higher than indicated#road/no_vehicles_which_are_higher_than_indicated</item>
+        <item>No vehicles which are wider than indicated#road/no_vehicles_which_are_wider_than_indicated</item>
+        <item>No vehicles with more mass than indicated#road/no_vehicles_with_more_mass_than_indicated</item>
+        <item>Speed limit#road/speed_limit</item>
+        <item>No overtaking#road/no_overtaking</item>
+        <item>No overtaking by vehicles used for goods transport#road/no_overtaking_by_vehicles_used_for_goods_transport</item>
+        <item>No entry for buses#road/no_entry_for_buses</item>
+        <item>No right turn#road/no_right_turn</item>
+        <item>No left turn#road/no_left_turn</item>
+        <item>No turning back until the next intersection#road/no_turning_back_until_the_next_intersection</item>
+        <item>Do not enter#road/do_not_enter</item>
+        <item>No entry for vehicular traffic#road/no_entry_for_vehicular_traffic</item>
+        <item>Give priority to vehicles from opposite direction#road/give_priority_to_vehicles_from_opposite_direction</item>
+        <item>Stop#road/stop</item>
+        <item>Priority road traffic#road/priority_road_traffic</item>
+        <item>End of priority road traffic#road/end_of_priority_road_traffic</item>
+        <item>Give way#road/give_way</item>
+        <item>No stopping#road/no_stopping</item>
+        <item>No waiting#road/no_waiting</item>
+        <item>Segregated cycles and pedestrian route#road/segregated_cycles_and_pedestrian_route</item>
+        <item>Mandatory cycleway#road/mandatory_cycleway</item>
+        <item>Mandatory foot way#road/mandatory_footway</item>
+        <item>Part of the road reserved for cyclists and pedestrians#road/part_of_the_road_reserved_for_cyclists_and_pedestrians</item>
+        <item>Mandatory part of the road for horse drivers#road/mandatory_part_of_the_road_for_horse_drivers</item>
+        <item>Bus lane#road/bus_lane</item>
+        <item>Limited access road#road/limited_access_road</item>
+        <item>Keep right#road/keep_right</item>
+        <item>Keep left#road/keep_left</item>
+        <item>Ahead only#road/ahead_only</item>
+        <item>Turn right ahead#road/turn_right_ahead</item>
+        <item>Turn left ahead#road/turn_left_ahead</item>
+        <item>Turn right#road/turn_right</item>
+        <item>Turn left#road/turn_left</item>
+        <item>Prescribed direction, straight and right#road/prescribed_direction_straight_and_right</item>
+        <item>Prescribed direction, straight and left#road/prescribed_direction_straight_and_left</item>
+        <item>Roundabout#road/roundabout</item>
+        <item>Minimum required speed#road/minimum_required_speed</item>
+        <item>Use of snow tires or tire chains#road/use_of_snow_tires_or_tire_chains</item>
+        <item>Road with one-way traffic#road/road_with_one_way_traffic</item>
+        <item>Priority over oncoming vehicles#road/priority_over_oncoming_vehicles</item>
+        <item>Highway#road/highway</item>
+        <item>Parking#road/parking</item>
+        <item>Pedestrian crossing#road/pedestrian_crossing</item>
+    </string-array>
+    <string name="title_activity_eula">Eula</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="end_user_license_agreement">End-User License</string>
+    <string name="must_accept_eula">You must accept the EULA to continue</string>
+    <string name="eeeee">eeeeeee</string>
+
+</resources>

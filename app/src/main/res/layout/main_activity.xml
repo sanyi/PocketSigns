@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/fullscreenBackgroundColor"
+    android:theme="@style/ThemeOverlay.PocketSigns.FullscreenContainer"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bgmetal1024x748"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/category_chose_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/choose_a_category"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:paddingTop="20sp"
+            android:paddingBottom="20sp"
+            android:textSize="30sp" />
+
+        <GridView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="horizontal"
+            android:verticalSpacing="8sp"
+            android:horizontalSpacing="8sp"
+            android:gravity="center"
+            android:id="@+id/categoryGridView"
+            android:numColumns="2"
+            />
+    </LinearLayout>
+</FrameLayout>
