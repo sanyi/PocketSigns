@@ -11,9 +11,8 @@ Long story
 This is a quick remake of a very old application I built several years ago. The original intent was mainly for testing out app
 Android app submission process and AdMob.
 
-Since Google Play Store does not permit application deletion. I was unable to rebuild
-the original sources while I wanted to strip out any AdMob code. I ended up remaking the app to be absolutely clean
-from any user data processing whatsoever.
+Since Google Play Store does not permit application deletion. I decided to strip out any third party content such as AdMob. I was unable to rebuild
+the original sources. I ended up remaking the app from scratch.
 
 Pocket Signs &copy; 2014 by Attila Gerendi
 --
