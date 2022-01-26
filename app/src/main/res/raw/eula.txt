@@ -1,4 +1,4 @@
-<h1>Before anything else, please note that: This aplication is a JOKE and should be used as such. Please do not use it for anything serious.</h1>
+<h1>Before anything else, please note that: This application is a JOKE and should be used as such. Please do not use it for anything serious.</h1>
 <br/>
 <h1>End-User License Agreement (&quot;Agreement&quot;)</h1>
 <p>Last updated: January 26, 2022</p>

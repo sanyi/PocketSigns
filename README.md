@@ -21,7 +21,7 @@ Pocket Signs &copy; 2014 by Attila Gerendi
 A collection of signs in one application, easy to use. Now you can alert everybody about
 any potential hazard, obstacle or condition requiring special attention.
 
-NOTE: This aplication is a **JOKE** and should be used as such. Please do not use it for anything serious.
+NOTE: This application is a **JOKE** and should be used as such. Please do not use it for anything serious.
 
 The Signs are classified as:
 - Traffic - signs used to provide information to road users,
