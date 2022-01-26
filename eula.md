@@ -1,5 +1,5 @@
 
-Before anything else, please not that: This aplication is a **JOKE** and should be used as such. Please do not use it for anything serious.
+Before anything else, please note that: This aplication is a **JOKE** and should be used as such. Please do not use it for anything serious.
 --
 
 
